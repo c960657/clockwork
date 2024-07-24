@@ -2,7 +2,7 @@ name: Tests
 
 on:
   push:
-    branches: [ master ]
+    branches: [ minitest-mock ]
   pull_request:
     branches: [ master ]
 
